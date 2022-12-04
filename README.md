@@ -8,18 +8,18 @@
 
 
 
-![РИСУНОК](https://gspics.org/image/0XYIX7)  
+![РИСУНОК](https://gspics.org/images/2022/12/04/0XYIX7.png)  
 
 Рисунок 26.1 - Окно Hierarchy  
 
-![РИСУНОК](https://gspics.org/image/0XY0JK)  
+![РИСУНОК](https://gspics.org/images/2022/12/04/0XY0JK.png)  
 
 Рисунок 26.2 - Окно Scene  
 
-![РИСУНОК](https://gspics.org/image/0XYFKu)  
+![РИСУНОК](https://gspics.org/images/2022/12/04/0XYFKu.png)  
 
 Рисунок 26.3 - Окно Game  
 
-![РИСУНОК](https://gspics.org/image/0XYkln)  
+![РИСУНОК](https://gspics.org/images/2022/12/04/0XYkln.png)  
 
 Рисунок 26.4 - Окно Inspector объекта Player  
